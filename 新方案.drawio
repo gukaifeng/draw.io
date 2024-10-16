@@ -74,9 +74,6 @@
         <mxCell id="9hDuUJalPoDhJ5KCLFlj-28" value="Others" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="615" y="645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XqmwX_CGvnM800rgmpBj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9hDuUJalPoDhJ5KCLFlj-29" target="9hDuUJalPoDhJ5KCLFlj-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="9hDuUJalPoDhJ5KCLFlj-29" value="&lt;span style=&quot;color: rgb(6, 6, 7); font-family: &amp;quot;Courier New&amp;quot;; font-size: 24px; letter-spacing: 0.25px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;strategies&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="709" y="435" width="60" height="30" as="geometry" />
         </mxCell>
